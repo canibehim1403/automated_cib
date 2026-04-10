@@ -1,1 +1,1 @@
-
+- For Payroll Bulk Transfer, testers are required to download a new file and update the amount and URL path before running the process.

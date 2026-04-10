@@ -1,1 +1,2 @@
+- Testers must create a folder named selenium_profile\cib_user following this sample path: C:\Users\UserStandAlone\PycharmProjects\selenium_profile\cib_user. They must also update the URL path in conftest.py before running any script.
 - For Payroll Bulk Transfer, testers are required to download a new file and update the amount and URL path before running the process.
